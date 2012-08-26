@@ -1,4 +1,4 @@
-/* Invoke method via retracting and points; Version 1.0; Lewis Robbins */
+/* Invoke method via Java reflection; Version 1.0; Lewis Robbins */
 
  
 /* Copyright (C) 2012 Lewis Robbins
