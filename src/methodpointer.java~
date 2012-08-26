@@ -48,7 +48,7 @@ public class methodpointer
 	 * @param n row(s) in the given table
 	 * @param f the method we're invoking */
 	
-	public static void printHistogram(double start, double end, int n1, Method invoke)
+	public static void printHistogram (double start, double end, int n1, Method invoke)
 	{
 		//print out the given method as the tables' title
 		System.out.println(invoke);
